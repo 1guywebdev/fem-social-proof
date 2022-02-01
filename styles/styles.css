@@ -47,9 +47,9 @@ html {
   }
   .container--main::after {
     content: url('../images/bg-pattern-bottom-desktop.svg');
-    height: 100%;
+    height: 20%;
     position: absolute;
-    top: 30%;
+    top: 20%;
     left: 0;
     width: 80%;
     z-index: -1;
