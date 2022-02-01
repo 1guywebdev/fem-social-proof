@@ -128,11 +128,11 @@ html {
     width: 70%;
   }
 }
-picture {
+.picture {
   margin-bottom: 0.5em;
 }
 @media screen and (min-width: 785px) {
-  picture {
+  .picture {
     margin-bottom: 0em;
   }
 }
